@@ -1,0 +1,4 @@
+to run theme local:
+shopify theme dev
+to push changes:
+shopify theme push --theme=17565666375
